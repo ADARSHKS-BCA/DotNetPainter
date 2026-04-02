@@ -1,0 +1,14 @@
+C:\Users\adars\OneDrive\Desktop\Painting\bin\Debug\net9.0-windows\PaintingApp.exe
+C:\Users\adars\OneDrive\Desktop\Painting\bin\Debug\net9.0-windows\PaintingApp.deps.json
+C:\Users\adars\OneDrive\Desktop\Painting\bin\Debug\net9.0-windows\PaintingApp.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\Painting\bin\Debug\net9.0-windows\PaintingApp.dll
+C:\Users\adars\OneDrive\Desktop\Painting\bin\Debug\net9.0-windows\PaintingApp.pdb
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.dll
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\refint\PaintingApp.dll
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.pdb
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\PaintingApp.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\Painting\obj\Debug\net9.0-windows\ref\PaintingApp.dll
